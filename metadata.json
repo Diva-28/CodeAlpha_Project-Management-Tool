@@ -1,0 +1,8 @@
+{
+  "name": "ZenFlow Project Management",
+  "description": "A high-performance, collaborative project management tool featuring Kanban boards, task assignments, real-time simulations, and an integrated AI Project Assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
